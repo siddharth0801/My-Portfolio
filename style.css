@@ -1,0 +1,141 @@
+  
+  .container-fluid{
+    font-family: 'Times New Roman', Times, serif;
+    
+  }
+  .container{
+    font-family: 'Times New Roman', Times, serif;
+    
+  }
+  /* Navbar css */
+ 
+  /* navbar css ends */
+  
+
+  /* Banner css  */
+  /* .bannertop{
+    background-image: url("images/bannerback.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+    
+  } */
+  .site-title{
+    padding-left: 10%;
+  }
+  .site-title h1{
+    padding-top: 35%;
+    
+    font-weight: 500;
+  }
+  .banner-img{
+    padding: 8rem 0;
+    padding-left: 2rem;
+    width: 90rems;
+  }
+  .btn{
+    margin-top: 1.8rem;
+    padding: .8rem 2rem;
+    
+    border-radius: 10px;
+  }
+  .topbody h2{
+    font-style: italic;
+  }
+  .topbody a{
+    font-size: 1.2rem;
+  }
+/* Banner css ends */
+
+/* About area */
+
+.aboutme{
+  padding: 7rem 5rem;
+}
+.aboutme h1{
+  font-style: italic;
+}
+.aboutpara{
+  padding-top: 5rem;
+ 
+  font-size: 1.3rem;
+}
+/* About are ends */
+
+/* Education css */
+.educationpara h1{
+  text-align: center;
+  padding-bottom: 5rem;
+  font-style: italic;
+  
+}
+.educationpara{
+  text-align: center;
+  padding: 5rem 5rem;
+  padding-bottom: 8rem;
+}
+.edu1 {
+  margin-left: 2rem;
+  background-color: white;
+  width: 400px;
+  height: 16rem;
+  border: 1px solid grey;
+ 
+  
+  border-radius: 10px;
+}
+.edu2 {
+  background-color: white;
+  width: 400px;
+  height: 16rem;
+  border: 1px solid grey;
+ 
+  
+  border-radius: 10px;
+}
+.edu1:hover {
+  box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.edu2:hover {
+  box-shadow: 0 5px 15px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.bi-layers-fill:hover{
+  opacity: 0.5;
+}
+
+/* education css ends */
+
+  /* Footer element for buttons (Social media). */
+  .bi {
+    padding: 20px;
+    font-size: 45px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+   
+  }
+  
+  .bi:hover {
+      
+      color: rgb(75, 75, 211);
+  }
+  
+.contactfooter{
+  width: fit-content;
+  color: white;
+  padding-top: 4rem;
+  margin-bottom: 0px;
+  height: 20rem;
+background-color: rgb(39, 38, 38);
+}
+.contactfooter h1{
+  text-align: center;
+  font-style: italic;
+  padding-bottom: 2rem;
+}
+
+
+
+
